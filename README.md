@@ -1,9 +1,9 @@
 iconforfile
 ===============
-Basically a command line version of <https://github.com/socketwiz/IconForFileType>.  I also needed an icon for a file but wanted it from another process that couldn't easilly make objc calls.  
+Basically a command line version of <https://github.com/socketwiz/IconForFileType>.  I also needed an icon for a file but wanted it from another process that couldn't easilly make cocoa calls.  
 
 Usage
-=====
+-----
 	Usage iconforfile [OPTIONS] <arguments separated by space>
 	-f --file <value>   icon by file, complete path 
 	-t --type <value>   icon by type (i.e. file extension) 
